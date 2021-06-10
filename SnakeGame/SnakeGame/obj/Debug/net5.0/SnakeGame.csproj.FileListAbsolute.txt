@@ -1,0 +1,16 @@
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\Debug\net5.0\SnakeGame.exe
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\Debug\net5.0\SnakeGame.deps.json
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\Debug\net5.0\SnakeGame.runtimeconfig.json
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\Debug\net5.0\SnakeGame.runtimeconfig.dev.json
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\Debug\net5.0\SnakeGame.dll
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\Debug\net5.0\ref\SnakeGame.dll
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\Debug\net5.0\SnakeGame.pdb
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\Debug\net5.0\SnakeGame.csprojAssemblyReference.cache
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\Debug\net5.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\Debug\net5.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\Debug\net5.0\SnakeGame.AssemblyInfo.cs
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\Debug\net5.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\Debug\net5.0\SnakeGame.dll
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\Debug\net5.0\ref\SnakeGame.dll
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\Debug\net5.0\SnakeGame.pdb
+C:\Users\RodrigoPinto\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\Debug\net5.0\SnakeGame.genruntimeconfig.cache
